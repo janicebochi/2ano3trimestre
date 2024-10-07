@@ -18,6 +18,7 @@ criaCartao(
 
 criaCartao(
     'Lingua inglesa',
-    'Onde se localiza Machu Picchu? a) Colômbia b) Peru c) China d) Bolívia e) Índia',
+    'Onde se localiza Machu Picchu?,
+    'a) Colômbia b) Peru c) China d) Bolívia e) Índia' ,
     'Peru'
 )
