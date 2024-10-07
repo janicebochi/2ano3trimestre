@@ -17,8 +17,19 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Onde se localiza Machu Picchu?,
-    'a) Colômbia b) Peru c) China d) Bolívia e) Índia' ,
+    'conhecimentos gerais',
+    'Onde se localiza Machu Picchu? a) Colômbia b) Peru c) China d) Bolívia e) Índia,
     'Peru'
+)
+
+criaCartao(
+    'conhecimentos gerais',
+    'Que país tem o formato de uma bota?,
+    'Itália.'
+)
+
+criaCartao(
+    'conhecimentos gerais',
+    'O que é mais pesado: 1 quilo de algodão ou 1 quilo de ferro?,
+    'Ambos têm o mesmo peso'
 )
